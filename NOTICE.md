@@ -5,3 +5,5 @@ This repository documents an educational portfolio project built from a course-p
 Raw starter datasets, grader feedback, and course rubric materials are intentionally excluded from the public repository.
 
 Amazon Quick, Amazon Quick Sight, SPICE, and related AWS product names are trademarks of Amazon Web Services, Inc. This portfolio is an independent project and does not imply AWS endorsement.
+
+The license covers my own documentation and screenshots only, not course-provided materials.
